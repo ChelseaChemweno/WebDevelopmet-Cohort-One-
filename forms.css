@@ -1,3 +1,21 @@
 body {
-  background-color: blue;
+  margin: 600px;
+  border: 20px solid red;
+  background-color: grey;
+  color: pink;
+  font-size: large;
+}
+/* When we do the * - It means that we ARE SELECTING ALL TAGS OR ALL ELEMENTS WITH THAT PROPERTY */
+*h3 {
+  font-size: small;
+}
+#additonalinfor {
+  font-size: 100px;
+}
+
+li:nth-child(3n) a {
+  color: black;
+}
+li a {
+  text-decoration: none;
 }
