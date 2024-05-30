@@ -1,0 +1,13 @@
+*body {
+  font-size: large;
+}
+*P {
+  font-size: large;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+li a {
+  color: blue;
+}
+/*  Styling using attributes is almost similar when we talk about parent and child relationship in styling  */

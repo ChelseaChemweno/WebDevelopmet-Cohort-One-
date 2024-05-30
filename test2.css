@@ -1,0 +1,10 @@
+.box {
+  margin: 20px;
+  border: 5px solid blue;
+  padding: 20px;
+  background-color: lightyellow;
+}
+.content {
+  background-color: lightgreen;
+  padding: 10px;
+}
